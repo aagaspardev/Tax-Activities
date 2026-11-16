@@ -30,7 +30,4 @@ A comprehensive collection of spreadsheets, workflow guides, and explanatory doc
 
 ---
 
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
-
-Notes: You can use the spreadsheet as an example to help organize your activities. :) 
+**Notes:** You can use the spreadsheet as an example to help organize your activities. :) 
